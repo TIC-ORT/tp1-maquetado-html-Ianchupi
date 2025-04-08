@@ -9,14 +9,17 @@ body{
     background-color: #e6dfdf;
     display: flex;
     flex-direction: column;
-    gap: 1
-    em;
+    gap: 1em;
     .Cabezal {
         display: flex;
-        background-color: #ffd180;
-        padding: 100px;
+        align-items: center;
+        background-color: #eca221;
+        height: 40vh;
+        width: 100vw;
         .Cuadrado_izq {
-            
+           padding: 4em;
+            background-color: #9e630b; 
+            height: 40%; 
         }
       }
 
