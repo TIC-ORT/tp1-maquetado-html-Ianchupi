@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: #e6dfdf;
+    display: flex;
+    flex-direction: column;
+    gap: 1
+    em;
+    .Cabezal {
+        display: flex;
+        background-color: #ffd180;
+        padding: 100px;
+        .Cuadrado_izq {
+            
+        }
+      }
+
+}
+
